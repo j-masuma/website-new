@@ -1,0 +1,19 @@
+
+.button-styling{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #A73A3A;
+    border-radius:   25px;;
+    color: white;
+    background-color: #A73A3A;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  }
+  .button-styling:hover{
+    background-color: #5f0a0a;
+    color: white;
+    border-color: #A73A3A;
+  }
